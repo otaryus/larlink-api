@@ -1,0 +1,3 @@
+package com.agency.api.repository;
+import com.agency.api.domain.PaymentObligation; import org.springframework.data.jpa.repository.JpaRepository; import java.util.*;
+public interface PaymentObligationRepository extends JpaRepository<PaymentObligation,UUID> { List<PaymentObligation> findAllByOrderByDueDateDesc(); List<PaymentObligation> findByContractHireRequestClientIdOrderByDueDateDesc(UUID id); Optional<PaymentObligation> findByContractIdAndReferenceMonth(UUID contractId,String month); boolean existsByContractIdAndReferenceMonth(UUID contractId,String month); boolean existsByContractIdAndStatus(UUID contractId,String status); Optional<PaymentObligation> findByProviderTransactionId(String transactionId); }

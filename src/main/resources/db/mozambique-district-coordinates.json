@@ -1,0 +1,49 @@
+{
+  "Cidade de Maputo": {
+    "KaMpfumu": [-25.9653, 32.5892],
+    "Nhlamankulu": [-25.9530, 32.5650],
+    "KaMaxaqueni": [-25.9360, 32.5800],
+    "KaMavota": [-25.8880, 32.6280],
+    "KaMubukwana": [-25.8950, 32.5480],
+    "KaTembe": [-26.0500, 32.5100],
+    "KaNyaka": [-25.9730, 32.9500]
+  },
+  "Província de Maputo": {
+    "Matola": [-25.9622, 32.4589],
+    "Boane": [-26.0470, 32.3300],
+    "Marracuene": [-25.7360, 32.6750],
+    "Moamba": [-25.5980, 32.2440],
+    "Namaacha": [-25.9850, 32.0180],
+    "Manhiça": [-25.4020, 32.8070],
+    "Magude": [-25.0250, 32.6500],
+    "Matutuíne": [-26.5420, 32.6560]
+  },
+  "Sofala": {
+    "Cidade da Beira": [-19.8436, 34.8389],
+    "Dondo": [-19.6094, 34.7431],
+    "Nhamatanda": [-19.3490, 34.2920]
+  },
+  "Nampula": {
+    "Cidade de Nampula": [-15.1165, 39.2666],
+    "Nacala": [-14.5428, 40.6728],
+    "Angoche": [-16.2325, 39.9086]
+  },
+  "Gaza": {
+    "Cidade de Xai-Xai": [-25.0519, 33.6442],
+    "Chokwe": [-24.5333, 32.9833],
+    "Bilene": [-25.2720, 33.2420]
+  },
+  "Inhambane": {
+    "Cidade de Inhambane": [-23.8650, 35.3833],
+    "Maxixe": [-23.8597, 35.3472],
+    "Vilankulo": [-22.0000, 35.3167]
+  },
+  "Tete": {
+    "Cidade de Tete": [-16.1564, 33.5867],
+    "Moatize": [-16.1020, 33.7560]
+  },
+  "Manica": {"Cidade de Chimoio": [-19.1164, 33.4833]},
+  "Zambézia": {"Cidade de Quelimane": [-17.8786, 36.8883]},
+  "Cabo Delgado": {"Cidade de Pemba": [-12.9740, 40.5178]},
+  "Niassa": {"Cidade de Lichinga": [-13.3128, 35.2406]}
+}
